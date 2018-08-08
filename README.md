@@ -1,2 +1,2 @@
 # musick
-A cool app written in CSSIc
+A cool app written in CSSI
